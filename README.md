@@ -19,5 +19,5 @@ Example:
 	java -Xmx2048m Main 32768 8 1 1 XSBENCH.t
 
 Make sure the trace files are placed in the same directory as the source code. Trace files are:
-	[MINIFE.t](MINIFE.t)
-	XSBENCH.t
+	[MINIFE.t](https://drive.google.com/drive/folders/1cN3FodCDsJUNP08SkFDyo8BY6ANJ3DoQ)
+	[XSBENCH.t](https://drive.google.com/drive/folders/1cN3FodCDsJUNP08SkFDyo8BY6ANJ3DoQ)
