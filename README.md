@@ -17,7 +17,7 @@ Replace <REPLACEMENT_POLICY> with a 0 to represent LRU, or a 1 to represent FIFO
 Replace <WRITE_BACK_POLICY> with a 0 to represent write-through, or a 1 to represent write-back.<br />
 Replace <TRACE_FILE> with MINIFE.t or XSBENCH.t.<br />
 
-Example: 
+Example:<br /> 
 javac *java<br />
 java -Xmx2048m Main 32768 8 1 1 XSBENCH.t
 
