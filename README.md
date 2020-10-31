@@ -18,6 +18,6 @@ Replace <WRITE_BACK_POLICY> with a 0 to represent write-through, or a 1 to repre
 Replace <TRACE_FILE> with MINIFE.t or XSBENCH.t.<br />
 
 Example: 
-javac *java
+javac *java<br />
 java -Xmx2048m Main 32768 8 1 1 XSBENCH.t
 
