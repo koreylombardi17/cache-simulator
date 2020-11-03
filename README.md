@@ -1,4 +1,4 @@
-How to compile and run my java application on a Windows or Linux Machine from the command line using downloadable trace files:<br />
+How to compile and run application on a Windows or Linux Machine from the command line using downloadable trace files:<br />
 [MINIFE.t](https://drive.google.com/file/d/1VT88k8sWPrV9LTUu_ndKNhsMzejNpD-Z/view?usp=sharing)<br />
 [XSBENCH.t](https://drive.google.com/file/d/1VT88k8sWPrV9LTUu_ndKNhsMzejNpD-Z/view?usp=sharing)<br />
 
