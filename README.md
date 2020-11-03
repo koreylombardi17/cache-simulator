@@ -1,6 +1,6 @@
 How to compile and run application on a Windows or Linux Machine from the command line using downloadable trace files:<br />
-<p>[MINIFE.t](https://drive.google.com/file/d/1VT88k8sWPrV9LTUu_ndKNhsMzejNpD-Z/view?usp=sharing)<br /></p>
-<p>[XSBENCH.t](https://drive.google.com/file/d/1VT88k8sWPrV9LTUu_ndKNhsMzejNpD-Z/view?usp=sharing)<br /></p>
+  [MINIFE.t](https://drive.google.com/file/d/1VT88k8sWPrV9LTUu_ndKNhsMzejNpD-Z/view?usp=sharing)<br />
+  [XSBENCH.t](https://drive.google.com/file/d/1VT88k8sWPrV9LTUu_ndKNhsMzejNpD-Z/view?usp=sharing)<br />
 
 
 1. Navigate inside the source-code directory. Make sure the trace files are placed in the same directory.  
