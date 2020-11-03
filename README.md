@@ -6,7 +6,7 @@ How to compile and run my java application on a Windows or Linux Machine from th
 1. Navigate inside the directory named source-code. Make sure the trace files are placed in the same directory.  
 
 2. To compile use the command:
-javac *java 
+'javac *java'
 
 3. To run use the command:
 java -Xmx2048m Main <CACHE_SIZE> <ASSOCIATIVITY> <REPLACEMENT_POLICY> <WRITE_BACK_POLICY> <TRACE_FILE>
