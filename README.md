@@ -5,7 +5,7 @@ How to compile and run my java application on a Windows or Linux Machine from th
 
 1. Navigate inside the directory named source-code. Make sure the trace files are placed in the same directory.  
 
-2. To compile use the command:
+2. To compile use the command:<br />
 `javac *java`
 
 3. To run use the command:
@@ -15,7 +15,7 @@ How to compile and run my java application on a Windows or Linux Machine from th
 `Replace <ASSOCIATIVITY> with a value between 1 and 64, make sure value is a power of 2.`<br />
 `Replace <REPLACEMENT_POLICY> with a 0 to represent LRU, or a 1 to represent FIFO.`<br />
 `Replace <WRITE_BACK_POLICY> with a 0 to represent write-through, or a 1 to represent write-back.`<br />
-`Replace <TRACE_FILE> with MINIFE.t or XSBENCH.t.<br />
+`Replace <TRACE_FILE> with MINIFE.t or XSBENCH.t.`<br />
 
 Example:<br /> 
 javac *java<br />
