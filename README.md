@@ -8,7 +8,7 @@ How to compile and run application on a Windows or Linux Machine from the comman
 2. To compile use the command:<br />
 `javac *java`
 
-3. To run use the command:
+3. To run use the command:<br />
 `java -Xmx2048m Main <CACHE_SIZE> <ASSOCIATIVITY> <REPLACEMENT_POLICY> <WRITE_BACK_POLICY> <TRACE_FILE>`
 
 `Replace <CACHE_SIZE> with a value between 8KB and 128KB, make sure value is a power of 2.`<br />
