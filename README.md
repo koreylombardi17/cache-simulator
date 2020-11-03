@@ -11,10 +11,10 @@ How to compile and run my java application on a Windows or Linux Machine from th
 3. To run use the command:
 `java -Xmx2048m Main <CACHE_SIZE> <ASSOCIATIVITY> <REPLACEMENT_POLICY> <WRITE_BACK_POLICY> <TRACE_FILE>`
 
-`Replace <CACHE_SIZE> with a value between 8KB and 128KB, make sure value is a power of 2.<br />`
-`Replace <ASSOCIATIVITY> with a value between 1 and 64, make sure value is a power of 2.<br />`
-`Replace <REPLACEMENT_POLICY> with a 0 to represent LRU, or a 1 to represent FIFO.<br />`
-`Replace <WRITE_BACK_POLICY> with a 0 to represent write-through, or a 1 to represent write-back.<br />`
+`Replace <CACHE_SIZE> with a value between 8KB and 128KB, make sure value is a power of 2.`<br />
+`Replace <ASSOCIATIVITY> with a value between 1 and 64, make sure value is a power of 2.`<br />
+`Replace <REPLACEMENT_POLICY> with a 0 to represent LRU, or a 1 to represent FIFO.`<br />
+`Replace <WRITE_BACK_POLICY> with a 0 to represent write-through, or a 1 to represent write-back.`<br />
 `Replace <TRACE_FILE> with MINIFE.t or XSBENCH.t.<br />
 
 Example:<br /> 
