@@ -3,7 +3,7 @@ How to compile and run my java application on a Windows or Linux Machine from th
 [XSBENCH.t](https://drive.google.com/file/d/1VT88k8sWPrV9LTUu_ndKNhsMzejNpD-Z/view?usp=sharing)<br />
 
 
-1. Navigate inside the directory named source-code. Make sure the trace files are placed in the same directory.  
+1. Navigate inside the source-code directory. Make sure the trace files are placed in the same directory.  
 
 2. To compile use the command:<br />
 `javac *java`
@@ -18,6 +18,6 @@ How to compile and run my java application on a Windows or Linux Machine from th
 `Replace <TRACE_FILE> with MINIFE.t or XSBENCH.t.`<br />
 
 Example:<br /> 
-javac *java<br />
-java -Xmx2048m Main 32768 8 1 1 XSBENCH.t
+`javac *java`<br />
+`java -Xmx2048m Main 32768 8 1 1 XSBENCH.t`
 
