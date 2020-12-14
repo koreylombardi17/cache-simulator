@@ -46,7 +46,8 @@ public class Main {
                 System.out.println("BufferedReader failed to close");
             }
         }
-        // Create simulation object 
+
+        // Create simulation object
         // Simulations sets up the cache then begins executing read and write commands 
         Simulation simulation = new Simulation(cacheSize, associativity, replacementPolicy, writeBackPolicy);
         simulation.execute(commands);

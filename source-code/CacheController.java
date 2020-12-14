@@ -128,13 +128,9 @@ public class CacheController {
     // Function used to check if cache set is full
     // Used to determine whether or not to evict a cache block before making insertion 
     public boolean isSetFull(int setNumber) {
-        if (setsList.get(setNumber).size() == cache.getAssociativity()) {
-            return true;
-        }
-        return false;
+        return setsList.get(setNumber).size() == cache.getAssociativity();
     }
 
-    // Big-O(n)
     // Function used to get a block
     public Block getBlock(LinkedList<Block> set, long tag) {
         for (Block block : set) {
